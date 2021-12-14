@@ -1,1 +1,1 @@
-Rails app for Le Wagon web certification.
+Rails app for Le Wagon web certification. 
